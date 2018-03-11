@@ -2,6 +2,8 @@
  
 ## Tableau Visualizations
 
+# Link to the Visualization: [Click Here](https://public.tableau.com/profile/erdem2412#!/vizhome/shared/X3BDQ7D4M)
+
 # Data Source 
 * GDP 
 * Endangered Language Data
