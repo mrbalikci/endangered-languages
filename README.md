@@ -1,13 +1,15 @@
 # Endangered Languages
+
+World endangered languages analyzed based of their origin countries. 
  
 ## Tableau Visualizations
 
 # Link to the Visualization: [Click Here](https://public.tableau.com/profile/erdem2412#!/vizhome/shared/X3BDQ7D4M)
 
 # Data Source 
-* GDP 
-* Endangered Language Data
-* Countries 
+* GDP.csv
+* Endangered Language: data.csv
+* Countries.cav
 
 # Visualizations 
 
